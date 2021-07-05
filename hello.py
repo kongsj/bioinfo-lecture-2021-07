@@ -3,7 +3,8 @@
 import sys
 
 print(sys.argv) #sys.argv는 리스트list
-# sys.exit() #여기까지만 실행
+sys.exit() #여기까지만 실행
+
 
 
 name = sys.argv[1]      
